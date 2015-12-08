@@ -1,1 +1,1 @@
-# simulation
+本项目使用了DXUT框架，修改自对DirectX SDK Sample的DDSWithoutD3DX项目。
